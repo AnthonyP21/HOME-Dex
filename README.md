@@ -1,5 +1,7 @@
 ## Shiny Dex - Pokémon Home
 
+Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
+
 ↓ Dernière Update le 23/05/2026 à 7h34 ↓
 ### Dex National [239/999] +3
 
