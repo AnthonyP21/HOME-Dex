@@ -2,13 +2,13 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 23/05/2026 à 11h18 ↓
-### Dex National [241/999] +5
+↓ Dernière Update le 27/05/2026 à 10h13 ↓
+### Dex National [242/999] +6
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
 |1G|42/151|+2 Mackogneur & Galopa|
-|2G|31/100|+1 Pharamp|
+|2G|32/100|+2 Pharamp & Cotovol|
 |3G|19/135||
 |4G|20/107||
 |5G|26/154||
@@ -17,11 +17,11 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |8G|24/90|+2 Distrib Zacian & Éthernatos|
 |9G|42/108||
 
-### Formes Régionales [31/58] +12
+### Formes Régionales [33/58] +14
 
 | Forme | Prog | Notes |
 |:--:|:--:|---|
-|Alola|10/18|+9 Familles de Rattata / Goupix / Racaillou, Raichu & Noadkoko|
+|Alola|12/18|+11 Familles de Rattata / Goupix / Racaillou / Sabelette, Raichu & Noadkoko|
 |Galar|6/19|+6 Famille de Ramoloss & Distrib des oiseaux légendaire de Galar|
 |Hisui|17/17|Complété|
 |Paldea|1/4||
