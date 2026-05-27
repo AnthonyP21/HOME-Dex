@@ -2,8 +2,8 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 27/05/2026 à 10h13 ↓
-### Dex National [242/999] +6
+↓ Dernière Update le 27/05/2026 à 21h06 ↓
+### Dex National [243/999] +7
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
@@ -15,16 +15,16 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |6G|21/70||
 |7G|16/84|J'ai deux Meltan Shiny mais impossible de le faire évolué en Melmétal... (pas compté)|
 |8G|24/90|+2 Distrib Zacian & Éthernatos|
-|9G|42/108||
+|9G|43/108|+1 Terraiste|
 
-### Formes Régionales [33/58] +14
+### Formes Régionales [34/58] +15
 
 | Forme | Prog | Notes |
 |:--:|:--:|---|
 |Alola|12/18|+11 Familles de Rattata / Goupix / Racaillou / Sabelette, Raichu & Noadkoko|
 |Galar|6/19|+6 Famille de Ramoloss & Distrib des oiseaux légendaire de Galar|
 |Hisui|17/17|Complété|
-|Paldea|1/4||
+|Paldea|2/4|+1 Axoloto|
 
 ---
 
