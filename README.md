@@ -2,8 +2,8 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 29/05/2026 à 8h57 ↓
-### Dex National [254/999] +18
+↓ Dernière Update le 29/05/2026 à 22h55 ↓
+### Dex National [257/999] +21
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
@@ -14,15 +14,15 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |5G|28/154|+2 Funécire & Mélancolux|
 |6G|22/70|+1 Trousselin|
 |7G|16/84|J'ai deux Meltan Shiny mais impossible de le faire évolué en Melmétal... (pas compté)|
-|8G|30/90|+8 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien, M.Glaquette, Berserkatt & Tutétékri|
-|9G|43/108|+1 Terraiste|
+|8G|31/90|+9 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien, M.Glaquette, Berserkatt, Tutétékri & Palarticho|
+|9G|45/108|+3 Terraiste, Cryodo & Glaivodo|
 
-### Formes Régionales [48/58] +29
+### Formes Régionales [49/58] +30
 
 | Forme | Prog | Notes |
 |:--:|:--:|---|
 |Alola|18/18|+17 Complété (Familles de Rattata / Goupix / Racaillou / Sabelette / Tadmorv / Taupiqueur & Miaouss, Raichu & Noadkoko)|
-|Galar|9/19|+9 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar, M.Mime, Miaouss & Tutafeh|
+|Galar|10/19|+10 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar, M.Mime, Miaouss, Tutafeh & Canarticho|
 |Hisui|17/17|Complété|
 |Paldea|4/4|+3 Complété Axoloto, Tauros Aquatique & Flamboyant|
 
