@@ -2,27 +2,27 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 29/05/2026 à 2h41 ↓
-### Dex National [246/999] +10
+↓ Dernière Update le 29/05/2026 à 5h01 ↓
+### Dex National [248/999] +12
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
 |1G|42/151|+2 Mackogneur & Galopa|
 |2G|32/100|+2 Pharamp & Cotovol|
-|3G|19/135||
+|3G|20/135|+1 Mysdibule|
 |4G|20/107||
 |5G|26/154||
 |6G|21/70||
 |7G|16/84|J'ai deux Meltan Shiny mais impossible de le faire évolué en Melmétal... (pas compté)|
-|8G|27/90|+5 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil & Lanssorien|
+|8G|28/90|+6 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien & M.Glaquette|
 |9G|43/108|+1 Terraiste|
 
-### Formes Régionales [45/58] +26
+### Formes Régionales [46/58] +27
 
 | Forme | Prog | Notes |
 |:--:|:--:|---|
 |Alola|18/18|+17 Complété (Familles de Rattata / Goupix / Racaillou / Sabelette / Tadmorv / Taupiqueur & Miaouss, Raichu & Noadkoko)|
-|Galar|6/19|+6 Famille de Ramoloss & Distrib des oiseaux légendaire de Galar|
+|Galar|7/19|+7 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar & M.Mime|
 |Hisui|17/17|Complété|
 |Paldea|4/4|+3 Complété Axoloto, Tauros Aquatique & Flamboyant|
 
