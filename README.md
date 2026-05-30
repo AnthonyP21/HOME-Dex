@@ -2,12 +2,12 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 30/05/2026 à 8h05 ↓
-### Dex National [257/999] +21
+↓ Dernière Update le 30/05/2026 à 9h19 ↓
+### Dex National [259/999] +23
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
-|1G|42/151|+2 Mackogneur & Galopa|
+|1G|42/151|+4 Mackogneur, Galopa, Smogo & Smogogo|
 |2G|32/100|+2 Pharamp & Cotovol|
 |3G|21/135|+2 Mysdibule & Polichombr|
 |4G|20/107||
@@ -17,12 +17,12 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |8G|31/90|+9 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien, M.Glaquette, Berserkatt, Tutétékri & Palarticho|
 |9G|45/108|+3 Terraiste, Cryodo & Glaivodo|
 
-### Formes Régionales [50/58] +31
+### Formes Régionales [51/58] +32
 
 | Forme | Prog | Notes |
 |:--:|:--:|---|
 |Alola|18/18|+17 Complété (Familles de Rattata / Goupix / Racaillou / Sabelette / Tadmorv / Taupiqueur & Miaouss, Raichu & Noadkoko)|
-|Galar|11/19|+11 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar, M.Mime, Miaouss, Tutafeh, Canarticho & Limonde|
+|Galar|12/19|+12 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar, M.Mime, Miaouss, Tutafeh, Canarticho, Limonde & Smogogo|
 |Hisui|17/17|Complété|
 |Paldea|4/4|+3 Complété Axoloto, Tauros Aquatique & Flamboyant|
 
