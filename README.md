@@ -2,7 +2,7 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 1/06/2026 à 17h52 ↓
+↓ Dernière Update le 3/06/2026 à 0h25 ↓
 ### Dex National [259/999] +23
 
 | Gen | Prog | Notes |
@@ -17,12 +17,12 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |8G|31/90|+9 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien, M.Glaquette, Berserkatt, Tutétékri & Palarticho|
 |9G|45/108|+3 Terraiste, Cryodo & Glaivodo|
 
-### Formes Régionales [52/58] +33
+### Formes Régionales [53/58] +34
 
 | Forme | Prog | Notes |
 |:--:|:--:|---|
 |Alola|18/18|+17 Complété (Familles de Rattata / Goupix / Racaillou / Sabelette / Tadmorv / Taupiqueur & Miaouss, Raichu & Noadkoko)|
-|Galar|13/19|+13 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar, M.Mime, Miaouss, Tutafeh, Canarticho, Limonde, Smogogo & Ponyta|
+|Galar|14/19|+14 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar, M.Mime, Miaouss, Tutafeh, Canarticho, Limonde, Smogogo, Ponyta & Galopa|
 |Hisui|17/17|Complété|
 |Paldea|4/4|+3 Complété Axoloto, Tauros Aquatique & Flamboyant|
 
