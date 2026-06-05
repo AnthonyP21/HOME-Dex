@@ -3,7 +3,7 @@
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
 ↓ Dernière Update le 4/06/2026 à 13h11 ↓
-### Dex National [260/999] +24
+### Dex National [261/999] +25
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
@@ -14,15 +14,15 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |5G|28/154|+2 Funécire & Mélancolux|
 |6G|22/70|+1 Trousselin|
 |7G|16/84|J'ai deux Meltan Shiny mais impossible de le faire évolué en Melmétal... (pas compté)|
-|8G|32/90|+10 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien, M.Glaquette, Berserkatt, Tutétékri, Palarticho & Corayôme|
+|8G|32/90|+10 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien, M.Glaquette, Berserkatt, Tutétékri, Palarticho, Corayôme & Ixon|
 |9G|45/108|+3 Terraiste, Cryodo & Glaivodo|
 
-### Formes Régionales [54/58] +35
+### Formes Régionales [57/58] +38
 
 | Forme | Prog | Notes |
 |:--:|:--:|---|
 |Alola|18/18|+17 Complété (Familles de Rattata / Goupix / Racaillou / Sabelette / Tadmorv / Taupiqueur & Miaouss, Raichu & Noadkoko)|
-|Galar|15/19|+14 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar, M.Mime, Miaouss, Tutafeh, Canarticho, Limonde, Smogogo, Ponyta, Galopa & Corayon|
+|Galar|18/19|+14 Famille de Ramoloss, Distrib des oiseaux légendaire de Galar, M.Mime, Miaouss, Tutafeh, Canarticho, Limonde, Smogogo, Ponyta, Galopa, Corayon, Zigzaton, Linéon & Darumarond|
 |Hisui|17/17|Complété|
 |Paldea|4/4|+3 Complété Axoloto, Tauros Aquatique & Flamboyant|
 
