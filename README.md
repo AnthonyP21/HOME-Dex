@@ -2,7 +2,37 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 6/06/2026 à 14h01 ↓
+↓ Dernière Update le 12/08/2026 à 18h49 ↓
+### Dex National [262/999] +1
+
+| Gen | Prog | Notes |
+|:--:|:--:|---|
+|1G|42/151||
+|2G|32/100||
+|3G|22/135|+1 Spinda|
+|4G|20/107||
+|5G|28/154||
+|6G|22/70||
+|7G|16/84||
+|8G|32/90||
+|9G|45/108||
+
+### Formes Régionales [58/58]
+
+| Forme | Prog | Notes |
+|:--:|:--:|---|
+|Alola|18/18|Complété|
+|Galar|19/19|Complété|
+|Hisui|17/17|Complété|
+|Paldea|4/4|Complété|
+
+---
+
+## Historiques
+
+<details>
+  <summary>06/06/2026 - Toutes les formes régionales</summary>
+  
 ### Dex National [261/999] +25
 
 | Gen | Prog | Notes |
@@ -27,8 +57,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Paldea|4/4|+3 Complété Axoloto, Tauros Aquatique & Flamboyant|
 
 ---
-
-## Historiques
+</details>
 
 <details>
   <summary>20/05/2026 - Début de l'aventure</summary>
