@@ -2,8 +2,8 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 28/08/2026 à 19h03 ↓
-### Dex National [264/999] +3
+↓ Dernière Update le 11/09/2026 à 7h36 ↓
+### Dex National [265/999] +4
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
@@ -13,7 +13,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |4G|20/107||
 |5G|28/154||
 |6G|22/70||
-|7G|18/84|+2 Type:0 & Mandrillon|
+|7G|19/84|+3 Type:0, Silvallié & Mandrillon|
 |8G|32/90||
 |9G|45/108||
 
@@ -86,9 +86,4 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Paldea|1/4|Je compte les 3 formes de Tauros|
 
 ---
-</details>
-
-<details>
-<summary>XX/06/2026</summary>
-À venir
 </details>
