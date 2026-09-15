@@ -2,13 +2,13 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 11/09/2026 à 7h36 ↓
-### Dex National [265/999] +4
+↓ Dernière Update le 15/09/2026 à 3h12 ↓
+### Dex National [266/999] +5
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
 |1G|42/151||
-|2G|32/100||
+|2G|33/100|+1 Celebi|
 |3G|22/135|+1 Spinda|
 |4G|20/107||
 |5G|28/154||
