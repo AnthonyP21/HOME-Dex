@@ -2,8 +2,8 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 23/09/2026 à 21h21 ↓
-### Dex National [279/999] +18
+↓ Dernière Update le 26/09/2026 à 21h15 ↓
+### Dex National [281/999] +20
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
@@ -12,7 +12,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |3G|22/135|+1 Spinda|
 |4G|20/107||
 |5G|29/154|+1 Genesect (JP Event)|
-|6G|25/70|+3 Amagara, Dragmara & Ptyranidur|
+|6G|27/70|+5 Amagara, Dragmara, Ptyranidur, Volcanion (HOME) & Diancie (JP Event)|
 |7G|19/84|+3 Type:0, Silvallié & Mandrillon|
 |8G|32/90||
 |9G|46/108|+1 Amassel|
