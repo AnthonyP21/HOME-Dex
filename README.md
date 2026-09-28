@@ -2,19 +2,19 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 28/09/2026 à 12h42 ↓
-### Dex National [282/999] +21
+↓ Dernière Update le 28/09/2026 à 23h38 ↓
+### Dex 1-9G [282/1001] +21
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
-|1G|46/151|+4 Artikodin, Électhor, Sulfura & Ptéra|
+|1G|48/151|+4 Artikodin, Électhor, Sulfura & Ptéra|
 |2G|38/100|+6 Celebi, Raikou, Entei, Suicune, Lugia & Ho-Oh|
 |3G|22/135|+1 Spinda|
 |4G|20/107||
-|5G|29/154|+1 Genesect (JP Event)|
-|6G|27/70|+5 Amagara, Dragmara, Ptyranidur, Volcanion (HOME) & Diancie (JP Event)|
+|5G|29/155|+1 Genesect (JP Event)|
+|6G|27/71|+5 Amagara, Dragmara, Ptyranidur, Volcanion (HOME) & Diancie (JP Event)|
 |7G|19/84|+3 Type:0, Silvallié & Mandrillon|
-|8G|32/90||
+|8G|33/90||
 |9G|46/108|+1 Amassel|
 
 ### Formes Régionales [58/58]
@@ -25,6 +25,8 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Galar|19/19|Complété|
 |Hisui|17/17|Complété|
 |Paldea|4/4|Complété|
+
+### Total [340/1059]
 
 ---
 
@@ -37,14 +39,14 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
-|1G|42/151|+4 Mackogneur, Galopa, Smogo & Smogogo|
+|1G|44/151|+4 Mackogneur, Galopa, Smogo & Smogogo|
 |2G|32/100|+2 Pharamp & Cotovol|
 |3G|21/135|+2 Mysdibule & Polichombr|
 |4G|20/107||
 |5G|28/154|+2 Funécire & Mélancolux|
 |6G|22/70|+1 Trousselin|
 |7G|16/84|J'ai deux Meltan Shiny mais impossible de le faire évolué en Melmétal... (pas compté)|
-|8G|32/90|+10 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien, M.Glaquette, Berserkatt, Tutétékri, Palarticho, Corayôme & Ixon|
+|8G|33/90|+11 Distrib Zacian & Éthernatos, Fantyrm, Dispareptil, Lanssorien, M.Glaquette, Berserkatt, Tutétékri, Palarticho, Corayôme & Ixon|
 |9G|45/108|+3 Terraiste, Cryodo & Glaivodo|
 
 ### Formes Régionales [58/58] +39
