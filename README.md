@@ -34,7 +34,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 ### Motif de Prismillon [3/19] +3
 
 | Motif | Prog |
-|:--:|:--:|
+|---|:--:|
 |Motif Archipel||
 |Motif Banquise||
 |Motif Blizzard||
