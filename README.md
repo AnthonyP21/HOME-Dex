@@ -2,7 +2,7 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 09/10/2026 à 23h59 ↓
+↓ Dernière Update le 10/10/2026 à 1h54 ↓
 ### Dex 1-9G [292/1001] +31
 
 | Gen | Prog | Notes |
@@ -31,7 +31,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [3/19] +3
+### Motif de Prismillon [4/19] +4
 
 | Motif | Prog |
 |---|:--:|
@@ -41,13 +41,13 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Motif Continent||
 |Motif Cyclone||
 |Motif Delta||
-|Motif Fantaisie (événementiel / forme de base dans Écarlate et Violet)|Obtenu|
+|Motif Fantaisie (événementiel / motif de base dans Écarlate et Violet)|Obtenu|
 |Motif Floraison (motif de base de nombreuses régions, dont la France)||
 |Motif Glace||
 |Motif Jungle||
 |Motif Mangrove||
 |Motif Métropole||
-|Motif Monarchie||
+|Motif Monarchie|Obtenu|
 |Motif Poké Ball (événementiel / Shiny Lock)|❌|
 |Motif Rivage||
 |Motif Sable||
