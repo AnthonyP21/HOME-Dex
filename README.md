@@ -2,14 +2,14 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 07/10/2026 à 15h40 ↓
-### Dex 1-9G [285/1001] +24
+↓ Dernière Update le 09/10/2026 à 14h10 ↓
+### Dex 1-9G [286/1001] +25
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
 |1G|48/151|+4 Artikodin, Électhor, Sulfura & Ptéra|
 |2G|38/100|+6 Celebi, Raikou, Entei, Suicune, Lugia & Ho-Oh|
-|3G|25/135|+3 Spinda, Regirock, Regice & Registeel|
+|3G|26/135|+4 Spinda, Regirock, Regice, Registeel & Latias|
 |4G|20/107||
 |5G|29/155|+1 Genesect (JP Event)|
 |6G|27/71|+5 Amagara, Dragmara, Ptyranidur, Volcanion (HOME) & Diancie (JP Event)|
@@ -26,7 +26,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Hisui|17/17|Complété|
 |Paldea|4/4|Complété|
 
-### Total [343/1059] +24
+### Total [344/1059] +25
 
 ---
 
