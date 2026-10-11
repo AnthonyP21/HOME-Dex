@@ -2,8 +2,8 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 10/10/2026 à 1h54 ↓
-### Dex 1-9G [292/1001] +31
+↓ Dernière Update le 11/10/2026 à 2h23 ↓
+### Dex 1-9G [293/1001] +32
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
@@ -14,7 +14,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |5G|31/155|+3 Genesect (JP Event), Venipatte & Scobolide|
 |6G|30/71|+8 Amagara, Dragmara, Ptyranidur, Volcanion (HOME), Diancie (JP Event), Lépidonille, Pérégrain & Prismillon (Fantaisie)|
 |7G|20/84|+4 Type:0, Silvallié, Mandrillon & Sovkipou|
-|8G|33/90||
+|8G|34/90|+1 Crèmy|
 |9G|46/108|+1 Amassel|
 
 ### Formes Régionales [58/58]
@@ -26,12 +26,12 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Hisui|17/17|Complété|
 |Paldea|4/4|Complété|
 
-### Total [350/1059] +31
+### Total [351/1059] +32
 
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [4/19] +4
+### Motif de Prismillon [5/19] +5
 
 | Motif | Prog |
 |---|:--:|
@@ -42,14 +42,14 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Motif Cyclone||
 |Motif Delta||
 |Motif Fantaisie (événementiel / motif de base dans Écarlate et Violet)|Obtenu|
-|Motif Floraison (motif de base de nombreuses régions, dont la France)||
+|Motif Floraison (motif de base dans X et Y, jeux où il est apparu pour la première fois)||
 |Motif Glace||
 |Motif Jungle||
 |Motif Mangrove||
 |Motif Métropole||
 |Motif Monarchie|Obtenu|
 |Motif Poké Ball (événementiel / Shiny Lock)|❌|
-|Motif Rivage||
+|Motif Rivage|Obtenu|
 |Motif Sable||
 |Motif Sécheresse|Obtenu|
 |Motif Soleil Levant||
