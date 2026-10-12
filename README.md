@@ -31,7 +31,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [6/19] +6
+### Motif de Prismillon [7/19] +7
 
 | Motif | Prog |
 |---|:--:|
@@ -43,7 +43,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Motif Delta||
 |Motif Fantaisie (événementiel / motif de base dans Écarlate et Violet)|Obtenu|
 |Motif Floraison (motif de base dans X et Y, jeux où il est apparu pour la première fois)||
-|Motif Glace||
+|Motif Glace|Obtenu|
 |Motif Jungle||
 |Motif Mangrove||
 |Motif Métropole||
