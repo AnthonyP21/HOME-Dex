@@ -2,20 +2,20 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 14/10/2026 à 4h49 ↓
-### Dex 1-9G [293/1001] +32
+↓ Dernière Update le 14/10/2026 à 15h57 ↓
+### Dex 1-9G [294/1001] +33
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
-|1G|48/151|+4 Artikodin, Électhor, Sulfura & Ptéra|
-|2G|38/100|+6 Celebi, Raikou, Entei, Suicune, Lugia & Ho-Oh|
-|3G|26/135|+4 Spinda, Regirock, Regice, Registeel & Latias|
+|1G|48/151|+4 : Artikodin, Électhor, Sulfura & Ptéra|
+|2G|38/100|+6 : Celebi, Raikou, Entei, Suicune, Lugia & Ho-Oh|
+|3G|27/135|+5 : Spinda, Regirock, Regice, Registeel, Latias & Latios|
 |4G|20/107||
-|5G|31/155|+3 Genesect (JP Event), Venipatte & Scobolide|
-|6G|30/71|+8 Amagara, Dragmara, Ptyranidur, Volcanion (HOME), Diancie (JP Event), Lépidonille, Pérégrain & Prismillon (Fantaisie)|
-|7G|20/84|+4 Type:0, Silvallié, Mandrillon & Sovkipou|
-|8G|34/90|+1 Crèmy|
-|9G|46/108|+1 Amassel|
+|5G|31/155|+3 : Genesect (JP Event), Venipatte & Scobolide|
+|6G|30/71|+8 : Amagara, Dragmara, Ptyranidur, Volcanion (HOME), Diancie (JP Event), Lépidonille, Pérégrain & Prismillon (Fantaisie)|
+|7G|20/84|+4 : Type:0, Silvallié, Mandrillon & Sovkipou|
+|8G|34/90|+1 : Crèmy|
+|9G|46/108|+1 : Amassel|
 
 ### Formes Régionales [58/58]
 
@@ -26,7 +26,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Hisui|17/17|Complété|
 |Paldea|4/4|Complété|
 
-### Total [351/1059] +32
+### Total [352/1059] +33
 
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
