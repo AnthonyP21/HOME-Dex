@@ -12,7 +12,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |3G|29/135|+7 : Spinda, Regirock, Regice, Registeel, Latias, Latios, Kyogre & Groudon|
 |4G|21/107|+1 : Créhelf|
 |5G|31/155|+3 : Genesect (JP Event), Venipatte & Scobolide|
-|6G|30/71|+8 : Amagara, Dragmara, Ptyranidur, Volcanion (HOME), Diancie (JP Event), Lépidonille, Pérégrain & Prismillon (Fantaisie)|
+|6G|30/71|+8 : Amagara, Dragmara, Ptyranidur, Volcanion (HOME), Diancie (JP Event), Lépidonille, Pérégrain & Prismillon (Floraison)|
 |7G|20/84|+4 : Type:0, Silvallié, Mandrillon & Sovkipou|
 |8G|34/90|+1 : Crèmy|
 |9G|46/108|+1 : Amassel|
@@ -31,7 +31,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [9/19] +9
+### Motif de Prismillon [10/19] +10
 
 | Motif | Prog |
 |---|:--:|
@@ -42,7 +42,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Motif Cyclone||
 |Motif Delta||
 |Motif Fantaisie (événementiel / motif de base dans Écarlate et Violet)|Obtenu|
-|Motif Floraison (motif de base dans X et Y, jeux où il est apparu pour la première fois)||
+|Motif Floraison (motif de base dans X et Y, jeux où il est apparu pour la première fois)|Obtenu|
 |Motif Glace|Obtenu|
 |Motif Jungle||
 |Motif Mangrove||
