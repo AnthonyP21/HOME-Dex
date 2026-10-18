@@ -3,13 +3,13 @@
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
 ↓ Dernière Update le 16/10/2026 à 0h20 ↓
-### Dex 1-9G [297/1001] +36
+### Dex 1-9G [299/1001] +38
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
-|1G|48/151|+4 : Artikodin, Électhor, Sulfura & Ptéra|
+|1G|49/151|+5 : Artikodin, Électhor, Sulfura, Ptéra & Leveinard|
 |2G|38/100|+6 : Celebi, Raikou, Entei, Suicune, Lugia & Ho-Oh|
-|3G|29/135|+7 : Spinda, Regirock, Regice, Registeel, Latias, Latios, Kyogre & Groudon|
+|3G|30/135|+8 : Spinda, Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon & Jirachi|
 |4G|21/107|+1 : Créhelf|
 |5G|31/155|+3 : Genesect (JP Event), Venipatte & Scobolide|
 |6G|30/71|+8 : Amagara, Dragmara, Ptyranidur, Volcanion (HOME), Diancie (JP Event), Lépidonille, Pérégrain & Prismillon (Floraison)|
@@ -26,12 +26,12 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Hisui|17/17|Complété|
 |Paldea|4/4|Complété|
 
-### Total [355/1059] +36
+### Total [357/1059] +38
 
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [10/19] +10
+### Motif de Prismillon [12/19] +12
 
 | Motif | Prog |
 |---|:--:|
@@ -44,8 +44,8 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Motif Fantaisie (événementiel / motif de base dans Écarlate et Violet)|Obtenu|
 |Motif Floraison (motif de base dans X et Y, jeux où il est apparu pour la première fois)|Obtenu|
 |Motif Glace|Obtenu|
-|Motif Jungle||
-|Motif Mangrove||
+|Motif Jungle|Obtenu|
+|Motif Mangrove|Obtenu|
 |Motif Métropole|Obtenu|
 |Motif Monarchie|Obtenu|
 |Motif Poké Ball (événementiel / Shiny Lock)|❌|
