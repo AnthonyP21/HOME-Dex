@@ -2,8 +2,8 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 18/10/2026 à 22h24 ↓
-### Dex 1-9G [299/1001] +38
+↓ Dernière Update le 19/10/2026 à 5h03 ↓
+### Dex 1-9G [300/1001] +39
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
@@ -15,7 +15,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |6G|30/71|+8 : Amagara, Dragmara, Ptyranidur, Volcanion (HOME), Diancie (JP Event), Lépidonille, Pérégrain & Prismillon (Floraison)|
 |7G|20/84|+4 : Type:0, Silvallié, Mandrillon & Sovkipou|
 |8G|34/90|+1 : Crèmy|
-|9G|46/108|+1 : Amassel|
+|9G|47/108|+2 : Amassel & Gambex|
 
 ### Formes Régionales [58/58]
 
@@ -31,7 +31,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [12/19] +12
+### Motif de Prismillon [13/19] +13
 
 | Motif | Prog |
 |---|:--:|
@@ -54,7 +54,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Motif Sécheresse|Obtenu|
 |Motif Soleil Levant||
 |Motif Verdure|Obtenu|
-|Motif Zénith||
+|Motif Zénith|Obtenu|
 
 </details>
 
