@@ -31,7 +31,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [13/19] +13
+### Motif de Prismillon [14/19] +14
 
 | Motif | Prog |
 |---|:--:|
@@ -52,7 +52,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Motif Rivage|Obtenu|
 |Motif Sable|Obtenu|
 |Motif Sécheresse|Obtenu|
-|Motif Soleil Levant||
+|Motif Soleil Levant|Obtenu|
 |Motif Verdure|Obtenu|
 |Motif Zénith|Obtenu|
 
