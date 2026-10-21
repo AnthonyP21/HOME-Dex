@@ -31,13 +31,13 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [14/19] +14
+### Motif de Prismillon [15/19] +15
 
 | Motif | Prog |
 |---|:--:|
 |Motif Archipel||
 |Motif Banquise||
-|Motif Blizzard||
+|Motif Blizzard|Obtenu|
 |Motif Continent|Obtenu|
 |Motif Cyclone||
 |Motif Delta||
