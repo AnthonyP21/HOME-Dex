@@ -3,11 +3,11 @@
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
 ↓ Dernière Update le 22/10/2026 à 9h44 ↓
-### Dex 1-9G [302/1001] +41
+### Dex 1-9G [303/1001] +42
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
-|1G|49/151|+5 : Artikodin, Électhor, Sulfura, Ptéra & Leveinard|
+|1G|50/151|+6 : Artikodin, Électhor, Sulfura, Ptéra, Leveinard & Akwakwak|
 |2G|38/100|+6 : Celebi, Raikou, Entei, Suicune, Lugia & Ho-Oh|
 |3G|30/135|+8 : Spinda, Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon & Jirachi|
 |4G|23/107|+3 : Créhelf, Créfollet & Créfadet|
@@ -26,12 +26,12 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Hisui|17/17|Complété|
 |Paldea|4/4|Complété|
 
-### Total [360/1059] +41
+### Total [361/1059] +42
 
 <details>
   <summary>Bonus - Motif de Prismillon</summary>
 
-### Motif de Prismillon [16/19] +16
+### Motif de Prismillon [17/19] +17
 
 | Motif | Prog |
 |---|:--:|
@@ -39,7 +39,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Motif Banquise||
 |Motif Blizzard|Obtenu|
 |Motif Continent|Obtenu|
-|Motif Cyclone||
+|Motif Cyclone|Obtenu|
 |Motif Delta|Obtenu|
 |Motif Fantaisie (événementiel / motif de base dans Écarlate et Violet)|Obtenu|
 |Motif Floraison (motif de base dans X et Y, jeux où il est apparu pour la première fois)|Obtenu|
