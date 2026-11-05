@@ -2,8 +2,8 @@
 
 Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno21" target="_blank">Karyno21</a>
 
-↓ Dernière Update le 29/10/2026 à 5h54 ↓
-### Dex 1-9G [308/1001] +47
+↓ Dernière Update le 05/11/2026 à 8h25 ↓
+### Dex 1-9G [309/1001] +48
 
 | Gen | Prog | Notes |
 |:--:|:--:|---|
@@ -11,7 +11,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |2G|38/100|+6 : Celebi, Raikou, Entei, Suicune, Lugia & Ho-Oh|
 |3G|30/135|+8 : Spinda, Regirock, Regice, Registeel, Latias, Latios, Kyogre, Groudon & Jirachi|
 |4G|28/107|+8 : Créhelf, Créfollet, Créfadet, Dialga, Palkia, Heatran, Regigigas, Giratina (Remplace une distibution) & Cresselia|
-|5G|31/155|+3 : Genesect (JP Event), Venipatte & Scobolide|
+|5G|32/155|+4 : Genesect (JP Event), Venipatte, Scobolide & Cobaltium|
 |6G|30/71|+8 : Amagara, Dragmara, Ptyranidur, Volcanion (HOME), Diancie (JP Event), Lépidonille, Pérégrain & Prismillon (Floraison)|
 |7G|20/84|+4 : Type:0, Silvallié, Mandrillon & Sovkipou|
 |8G|34/90|+1 : Crèmy|
@@ -26,7 +26,7 @@ Pokémon-Elément-Sh -> <a href="https://www.pokemon-element-sh.fr/profil/karyno
 |Hisui|17/17|Complété|
 |Paldea|4/4|Complété|
 
-### Total [366/1059] +47
+### Total [367/1059] +48
 
 <details>
   <summary>Bonus - Motif de Prismillon [19/19] +19</summary>
